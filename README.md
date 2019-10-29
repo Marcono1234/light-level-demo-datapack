@@ -1,5 +1,6 @@
 # light-level-demo-datapack
-Minecraft datapack which demonstrates how the [light-level-datapack](https://github.com/Marcono1234/light-level-datapack) can be used.
+Minecraft datapack which demonstrates how the [light-level-datapack](https://github.com/Marcono1234/light-level-datapack) can be used.  
+![Demo image](/doc/demo-image.png)
 
 ## Repository layout
 The [datapack](/datapack) folder contains the actual datapack as a separate folder.  
