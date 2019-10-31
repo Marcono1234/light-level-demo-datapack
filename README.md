@@ -29,7 +29,7 @@ As long as the entity has the tag light level markers will be shown around it in
 
 :warning: The light level represents the "visible light (`max(sky-darkening,block)`)". Therefore outside during day it will be 15, making you unable to determine the block light level.
 
-:warning: The performance of this datapack is not particularly great. It already runs only every 5th tick, but when it runs the ms/tick will likely be higher than 50 (the maximum to run without lag). This datapack is therefore only intended for demonstration purposes.
+:warning: This datapack is only intended for demonstration purposes. Be careful when using it for regular gameplay and verify that it does not decrease the performance too much.
 
 ### Removal
 To remove all scoreboard objectives and tags used by this datapack, run:
